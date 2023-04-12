@@ -1,4 +1,4 @@
-<h1 style="color:blue"> MCBE Discord Bot </h1>
+# MCBE Discord Bot
 
 ---
 
