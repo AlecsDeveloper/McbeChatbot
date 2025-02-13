@@ -65,3 +65,8 @@ My [discord](https://discord.gg/96Uyt3KWT5) sevrer
 
 ## ***Note:***
 for this to work, the server must have the default player permissions on `operator` also have cheats enabled in `server.properties` and `online-mode` turn `false`
+
+
+Solution in new versions:
+
+https://github.com/AlecsDeveloper/McbeChatbot/issues/1
